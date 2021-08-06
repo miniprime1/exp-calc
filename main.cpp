@@ -1,5 +1,4 @@
 #include <iostream>
-#define PI acos(-1)
 using namespace std;
 
 double factorial(int x) {
